@@ -17,3 +17,5 @@ Images of the Dashboard are shown below
 
 
 ![Second Tableau Dashboard](https://user-images.githubusercontent.com/44944830/170551449-a31bfd99-cb59-4a46-b689-6616afa2c15a.png)
+
+Please, feel free to share this content but do mention the credits.
