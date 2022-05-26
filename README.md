@@ -8,3 +8,6 @@ If Tableau is installed then directly open the workbook which is attached as "Bo
 Link to the Dashboard is presented below as it is published on Tableau Public
 
 https://public.tableau.com/shared/238QGP2FD?:display_count=n&:origin=viz_share_link
+
+
+![SALES INSIGHT DATA](https://user-images.githubusercontent.com/44944830/170551033-7f0f9005-ada4-4e1f-a296-264d5434625f.png)
