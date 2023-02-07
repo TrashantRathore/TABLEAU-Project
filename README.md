@@ -13,9 +13,6 @@ Planning of Project is Done using an important Data Analytics Tool "AIM's GRID" 
 3. END RESULT
 4. SUCCESS CRITERIA
 
-https://public.tableau.com/shared/238QGP2FD?:display_count=n&:origin=viz_share_link
-
-
 https://public.tableau.com/views/SalesDataInsightDashboardVisualization/SALESINSIGHTDATA?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Images of the Dashboard are shown below
